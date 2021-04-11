@@ -8,6 +8,12 @@ function Sidebar_Chats() {
             <Sidebar_Chat/>
             <Sidebar_Chat/>
             <Sidebar_Chat/>
+            <Sidebar_Chat/>
+            <Sidebar_Chat/>
+            <Sidebar_Chat/>
+            <Sidebar_Chat/>
+            <Sidebar_Chat/>
+            <Sidebar_Chat/> 
         </div>
     )
 }

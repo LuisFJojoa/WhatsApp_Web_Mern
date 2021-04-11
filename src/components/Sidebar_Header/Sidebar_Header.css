@@ -5,14 +5,14 @@
     border-right: 1px solid lightgray;
 }
 
-.sidebar__headerRight{
+.sidebar__headerOptions{
     display:flex;
     align-items: center;
     justify-content: space-between;
     min-width: 10vw;
 }
 
-.sidebar__headerRight > .MuiSvgIcon-root{
+.sidebar__headerOptions > .MuiSvgIcon-root{
     margin-right: 2vw;
     font-size: 24px !important;
 }

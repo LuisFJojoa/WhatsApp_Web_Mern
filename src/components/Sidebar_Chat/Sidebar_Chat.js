@@ -9,7 +9,6 @@ function Sidebar_Chat() {
             <div className="sidebar__chatInfo">
                 <h2>Room name</h2>
                 <p>This is the last message</p>
-
             </div>
         </div>
     )
