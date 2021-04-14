@@ -3,7 +3,8 @@
     justify-content: space-between;
     align-items: center;
     height:62px;
-    border-top: 1px solid lightgray;
+    border-top: 1px solid var(--line-color-separator);
+    
 }
 
 .chat__inputText > form{

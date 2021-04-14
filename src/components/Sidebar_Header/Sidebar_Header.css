@@ -2,7 +2,8 @@
     display:flex;
     justify-content: space-between;
     padding: 20px;
-    border-right: 1px solid lightgray;
+    background-color: var(--panel-header-background);
+    border-right: 1px solid var(--line-color-separator);
 }
 
 .sidebar__headerOptions{
@@ -13,7 +14,8 @@
 }
 
 .sidebar__headerOptions > .MuiSvgIcon-root{
-    margin-right: 2vw;
+    margin-right: 15vw;
     font-size: 24px !important;
 }
+
 

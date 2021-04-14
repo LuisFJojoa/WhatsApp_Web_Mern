@@ -1,3 +1,13 @@
+:root {
+  --panel-header-background: #ededed;
+  --panel-footer-background: #ededed;
+  --icon-color: gray;
+  --line-color-separator: lightgray;
+  --search-color-font: #f6f6f6; 
+  --white: #fff;
+  --color-username: green;
+  --message-reciever-background: #dcf8c6;
+}
 * {
   margin: 0;
 }

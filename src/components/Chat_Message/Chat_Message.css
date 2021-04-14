@@ -5,14 +5,14 @@
     width: fit-content;
     margin-bottom: 30px;
     border-radius: 10px;
-    background-color: #fff;
+    background-color: var(--white);
     display:flex;
     flex-direction:column;;
 }
 
 .chat__messageUsername{
     font-weight: 500;
-    color: green;
+    color: var(--color-username);
 }
 
 .chat__data{
@@ -34,5 +34,5 @@
 
 .chat__reciever{
     margin-left: auto;
-    background: #dcf8c6;
+    background: var(--message-reciever-background);
 }

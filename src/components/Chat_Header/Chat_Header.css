@@ -2,7 +2,8 @@
     padding: 20px;
     display:flex;
     align-items:center;
-    border-bottom: 1px solid lightgray;
+    background-color: var(--panel-header-background);
+    border-bottom: 1px solid var(--line-color-separator);
 }
 .chat__headerAvatar{
     margin-right: 20px;
