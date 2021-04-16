@@ -17,6 +17,6 @@
     font-weight: 500;
 }
 
-.chat__headerOptions{
-    
+.chat__headerOptions > .MuiIconButton-root > .MuiIconButton-label > .MuiSvgIcon-root{
+    color: var(--icon-color);
 }

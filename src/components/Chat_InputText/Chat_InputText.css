@@ -4,6 +4,7 @@
     align-items: center;
     height:62px;
     border-top: 1px solid var(--line-color-separator);
+    background-color: var(--panel-footer-background);
     
 }
 
@@ -26,5 +27,5 @@
 
 .chat__inputText > .MuiSvgIcon-root{
     padding: 10px;
-    color: gray;
+    color: var(--icon-color);
 }

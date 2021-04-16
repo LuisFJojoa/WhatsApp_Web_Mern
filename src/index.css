@@ -3,7 +3,9 @@
   --panel-footer-background: #ededed;
   --icon-color: gray;
   --line-color-separator: lightgray;
+  --line-color-separator-chat: #f6f6f6;
   --search-color-font: #f6f6f6; 
+  --hover-sidebar-chat: #f6f6f6;
   --white: #fff;
   --color-username: green;
   --message-reciever-background: #dcf8c6;
