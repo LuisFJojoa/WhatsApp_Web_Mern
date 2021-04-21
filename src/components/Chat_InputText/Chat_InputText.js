@@ -1,19 +1,19 @@
-import React from 'react'
-import './Chat_InputText.css'
-import InserEmoticonIcon from '@material-ui/icons/InsertEmoticon'
-import MicIcon from '@material-ui/icons/Mic'
+import React from "react";
+import InserEmoticonIcon from "@material-ui/icons/InsertEmoticon";
+import MicIcon from "@material-ui/icons/Mic";
+import {ChatInputText} from './ChatInputTextStyled'
 
 function Chat_InputText() {
-    return (
-        <div className="chat__inputText">
-            <InserEmoticonIcon/>
-            <form>
-                <input placeholder="Type a message" type="text"/>
-                <button type="submit">Send a message</button>
-            </form>
-            <MicIcon/>
-        </div>
-    )
+  return (
+    <ChatInputText>
+      <InserEmoticonIcon />
+      <form>
+        <input placeholder="Type a message" type="text" />
+        <button type="submit">Send a message</button>
+      </form>
+      <MicIcon />
+    </ChatInputText>
+  );
 }
 
-export default Chat_InputText
+export default Chat_InputText;
