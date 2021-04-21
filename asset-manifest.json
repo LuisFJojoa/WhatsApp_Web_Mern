@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/WhatsApp_Web_Mern/static/css/main.c151ac94.chunk.css",
-    "main.js": "/WhatsApp_Web_Mern/static/js/main.5f42f2e5.chunk.js",
-    "main.js.map": "/WhatsApp_Web_Mern/static/js/main.5f42f2e5.chunk.js.map",
+    "main.css": "/WhatsApp_Web_Mern/static/css/main.f4c17f35.chunk.css",
+    "main.js": "/WhatsApp_Web_Mern/static/js/main.0c7b6049.chunk.js",
+    "main.js.map": "/WhatsApp_Web_Mern/static/js/main.0c7b6049.chunk.js.map",
     "runtime-main.js": "/WhatsApp_Web_Mern/static/js/runtime-main.6dcb885c.js",
     "runtime-main.js.map": "/WhatsApp_Web_Mern/static/js/runtime-main.6dcb885c.js.map",
-    "static/js/2.4212fe89.chunk.js": "/WhatsApp_Web_Mern/static/js/2.4212fe89.chunk.js",
-    "static/js/2.4212fe89.chunk.js.map": "/WhatsApp_Web_Mern/static/js/2.4212fe89.chunk.js.map",
+    "static/js/2.de39d28f.chunk.js": "/WhatsApp_Web_Mern/static/js/2.de39d28f.chunk.js",
+    "static/js/2.de39d28f.chunk.js.map": "/WhatsApp_Web_Mern/static/js/2.de39d28f.chunk.js.map",
     "index.html": "/WhatsApp_Web_Mern/index.html",
-    "static/css/main.c151ac94.chunk.css.map": "/WhatsApp_Web_Mern/static/css/main.c151ac94.chunk.css.map",
-    "static/js/2.4212fe89.chunk.js.LICENSE.txt": "/WhatsApp_Web_Mern/static/js/2.4212fe89.chunk.js.LICENSE.txt"
+    "static/css/main.f4c17f35.chunk.css.map": "/WhatsApp_Web_Mern/static/css/main.f4c17f35.chunk.css.map",
+    "static/js/2.de39d28f.chunk.js.LICENSE.txt": "/WhatsApp_Web_Mern/static/js/2.de39d28f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6dcb885c.js",
-    "static/js/2.4212fe89.chunk.js",
-    "static/css/main.c151ac94.chunk.css",
-    "static/js/main.5f42f2e5.chunk.js"
+    "static/js/2.de39d28f.chunk.js",
+    "static/css/main.f4c17f35.chunk.css",
+    "static/js/main.0c7b6049.chunk.js"
   ]
 }
