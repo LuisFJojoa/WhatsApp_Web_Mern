@@ -1,16 +1,16 @@
 import { Avatar } from '@material-ui/core'
 import React from 'react'
-import './Sidebar_Chat.css'
+import {SidebarChat} from './SidebarChatStyled'
 
 function Sidebar_Chat() {
     return (
-        <div className="sidebar__chat">
+        <SidebarChat>
             <Avatar/>
             <div className="sidebar__chatInfo">
                 <h2>Room name</h2>
                 <p>This is the last message</p>
             </div>
-        </div>
+        </SidebarChat>
     )
 }
 

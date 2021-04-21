@@ -1,23 +1,23 @@
 import React from 'react'
 import Chat_Message from '../Chat_Message/Chat_Message'
-import './Chat_Content.css'
+import {ChatContent} from './ChatContentStyled'
 
 function Chat_Content() {
     return (
-        <div className="chat__content">
+        <ChatContent>
             <Chat_Message recieverClass={true}/>
             <Chat_Message/>
             <Chat_Message/>
+            <Chat_Message/>
             <Chat_Message recieverClass={true}/>
             <Chat_Message recieverClass={true}/>
             <Chat_Message recieverClass={true}/>
+            <Chat_Message />
+            <Chat_Message />
             <Chat_Message recieverClass={true}/>
+            <Chat_Message />
             <Chat_Message recieverClass={true}/>
-            <Chat_Message recieverClass={true}/>
-            <Chat_Message recieverClass={true}/>
-            <Chat_Message recieverClass={true}/>
-            <Chat_Message recieverClass={true}/>
-        </div>
+        </ChatContent>
     )
 }
 
