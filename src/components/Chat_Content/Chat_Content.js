@@ -11,7 +11,7 @@ function Chat_Content() {
             <Chat_Message/>
             <Chat_Message recieverClass={true}/>
             <Chat_Message recieverClass={true}/>
-            <Chat_Message recieverClass={true}/>
+            <Chat_Message />
             <Chat_Message />
             <Chat_Message />
             <Chat_Message recieverClass={true}/>

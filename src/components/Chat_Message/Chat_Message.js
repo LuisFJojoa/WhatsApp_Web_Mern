@@ -5,7 +5,7 @@ const Chat_Message = (props) => {
     return (
         <>
         {/* ${props.recieverClass ? 'chat__reciever':''}`} */}
-           <ChatMessageContent>
+           <ChatMessageContent recieverClass={props.recieverClass}>
                 <span className="chat__messageUsername">Fernando</span>
                 <div className="chat__data">
                     <p className="chat__messageData">message extremly large with a lot data</p>

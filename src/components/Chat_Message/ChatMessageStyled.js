@@ -8,9 +8,15 @@ export const ChatMessageContent = styled.p`
     width: fit-content;
     margin-bottom: 30px;
     border-radius: 10px;
-    background-color: var(--white);
     display:flex;
     flex-direction:column;
+    ${props => props.recieverClass ?
+        `margin-left: auto;
+        background: var(--message-reciever-background);`
+        :
+        `background: var(--white);`
+    }
+    
 
     .chat__messageUsername{
         font-weight: 500;
@@ -32,10 +38,5 @@ export const ChatMessageContent = styled.p`
         font-size: xx-small;
         margin-left: 10px;
         margin-top: 10px;
-    }
-
-    .chat__reciever{
-        margin-left: auto;
-        background: var(--message-reciever-background);
     }
 `
